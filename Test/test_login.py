@@ -4,9 +4,13 @@ import time
 import pytest
 
 from POM.LoginScreen import Login
+from utilities.readProperties import Readconfig
 
 
 class Test_login:
+    URL= Readconfig.baseurl()
+    username = Readconfig.username()
+    password = Readconfig.password()
 
     @pytest.mark.usefixtures
     def test_001(self,setup):
