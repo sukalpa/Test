@@ -1,0 +1,609 @@
+2021-08-29 20:33:40,805 ====== WebDriver manager ======
+2021-08-29 20:33:42,922 Trying to download new driver from https://msedgedriver.azureedge.net/92.0.902.84/edgedriver_win64.zip
+2021-08-29 20:34:00,006 Driver has been saved in cache [C:\Users\sukal\.wdm\drivers\edgedriver\win64\92.0.902.84]
+2021-08-29 20:34:01,792 ***********test_001************
+2021-08-29 22:12:29,711 
+
+2021-08-29 22:12:29,711 ====== WebDriver manager ======
+2021-08-29 22:12:29,766 Current google-chrome version is 92.0.4515
+2021-08-29 22:12:29,766 Get LATEST driver version for 92.0.4515
+2021-08-29 22:12:31,080 Get LATEST driver version for 92.0.4515
+2021-08-29 22:12:31,447 Trying to download new driver from https://chromedriver.storage.googleapis.com/92.0.4515.107/chromedriver_win32.zip
+2021-08-29 22:12:56,540 Driver has been saved in cache [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107]
+2021-08-29 22:12:59,195 ***********test_001************
+2021-08-29 22:14:13,813 ====== WebDriver manager ======
+2021-08-29 22:14:14,514 Driver [C:\Users\sukal\.wdm\drivers\edgedriver\win64\92.0.902.84\msedgedriver.exe] found in cache
+2021-08-29 22:14:16,169 ***********test_001************
+2021-08-29 22:46:16,199 ====== WebDriver manager ======
+2021-08-29 22:46:17,623 Driver [C:\Users\sukal\.wdm\drivers\edgedriver\win64\92.0.902.84\msedgedriver.exe] found in cache
+2021-08-29 22:46:19,068 ***********test_001************
+2021-08-30 11:19:36,958 ====== WebDriver manager ======
+2021-08-30 11:19:39,645 Trying to download new driver from https://msedgedriver.azureedge.net/92.0.902.84/edgedriver_win64.zip
+2021-08-30 11:20:20,641 ====== WebDriver manager ======
+2021-08-30 11:20:23,892 Trying to download new driver from https://msedgedriver.azureedge.net/92.0.902.84/edgedriver_win64.zip
+2021-08-30 11:20:39,421 
+
+2021-08-30 11:20:39,421 ====== WebDriver manager ======
+2021-08-30 11:20:39,441 Current google-chrome version is 92.0.4515
+2021-08-30 11:20:39,441 Get LATEST driver version for 92.0.4515
+2021-08-30 11:20:41,320 Get LATEST driver version for 92.0.4515
+2021-08-30 11:20:41,846 Trying to download new driver from https://chromedriver.storage.googleapis.com/92.0.4515.107/chromedriver_win32.zip
+2021-08-30 11:21:19,614 Driver has been saved in cache [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107]
+2021-08-30 11:21:23,318 ***********test_002_DDT************
+2021-08-30 11:25:09,922 
+
+2021-08-30 11:25:09,922 ====== WebDriver manager ======
+2021-08-30 11:25:09,959 Current google-chrome version is 92.0.4515
+2021-08-30 11:25:09,959 Get LATEST driver version for 92.0.4515
+2021-08-30 11:25:11,669 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-08-30 11:25:12,861 ***********test_002_DDT************
+2021-08-30 11:30:01,707 
+
+2021-08-30 11:30:01,707 ====== WebDriver manager ======
+2021-08-30 11:30:01,757 Current google-chrome version is 92.0.4515
+2021-08-30 11:30:01,757 Get LATEST driver version for 92.0.4515
+2021-08-30 11:30:03,452 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-08-30 11:30:04,682 ***********test_002_DDT************
+2021-08-30 11:30:36,987 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022034E2A1C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b0d6e1693a4e6ff89982744768564d53/element
+2021-08-30 11:30:39,030 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022034EA53D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b0d6e1693a4e6ff89982744768564d53/element
+2021-08-30 11:30:41,058 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022034EA54F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b0d6e1693a4e6ff89982744768564d53/element
+2021-08-30 14:02:25,185 ====== WebDriver manager ======
+2021-08-30 14:02:47,085 
+
+2021-08-30 14:02:47,085 ====== WebDriver manager ======
+2021-08-30 14:02:47,123 Current google-chrome version is 92.0.4515
+2021-08-30 14:02:47,123 Get LATEST driver version for 92.0.4515
+2021-08-30 14:02:49,356 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-08-30 14:02:50,624 ***********test_002_DDT************
+2021-08-30 14:07:41,840 ====== WebDriver manager ======
+2021-08-30 14:08:19,213 ====== WebDriver manager ======
+2021-08-30 14:09:50,604 
+
+2021-08-30 14:09:50,604 ====== WebDriver manager ======
+2021-08-30 14:09:50,644 Current google-chrome version is 92.0.4515
+2021-08-30 14:09:50,644 Get LATEST driver version for 92.0.4515
+2021-08-30 14:10:06,224 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-08-30 14:10:07,347 ***********test_002_DDT************
+2021-08-30 14:11:22,197 
+
+2021-08-30 14:11:22,197 ====== WebDriver manager ======
+2021-08-30 14:11:22,231 Current google-chrome version is 92.0.4515
+2021-08-30 14:11:22,231 Get LATEST driver version for 92.0.4515
+2021-08-30 14:11:22,784 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-08-30 14:11:24,109 ***********test_002_DDT************
+2021-08-30 14:14:00,033 
+
+2021-08-30 14:14:00,033 ====== WebDriver manager ======
+2021-08-30 14:14:00,067 Current google-chrome version is 92.0.4515
+2021-08-30 14:14:00,067 Get LATEST driver version for 92.0.4515
+2021-08-30 14:14:01,747 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-08-30 14:14:02,920 ***********test_002_DDT************
+2021-08-30 14:15:18,046 
+
+2021-08-30 14:15:18,046 ====== WebDriver manager ======
+2021-08-30 14:15:18,075 Current google-chrome version is 92.0.4515
+2021-08-30 14:15:18,075 Get LATEST driver version for 92.0.4515
+2021-08-30 14:15:20,193 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-08-30 14:15:21,409 ***********test_002_DDT************
+2021-08-30 14:18:25,176 
+
+2021-08-30 14:18:25,176 ====== WebDriver manager ======
+2021-08-30 14:18:25,209 Current google-chrome version is 92.0.4515
+2021-08-30 14:18:25,209 Get LATEST driver version for 92.0.4515
+2021-08-30 14:18:28,794 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-08-30 14:18:29,960 ***********test_002_DDT************
+2021-08-30 14:20:03,616 
+
+2021-08-30 14:20:03,616 ====== WebDriver manager ======
+2021-08-30 14:20:03,658 Current google-chrome version is 92.0.4515
+2021-08-30 14:20:03,658 Get LATEST driver version for 92.0.4515
+2021-08-30 14:20:04,644 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-08-30 14:20:05,839 ***********test_002_DDT************
+2021-08-30 14:22:49,405 
+
+2021-08-30 14:22:49,405 ====== WebDriver manager ======
+2021-08-30 14:22:49,440 Current google-chrome version is 92.0.4515
+2021-08-30 14:22:49,440 Get LATEST driver version for 92.0.4515
+2021-08-30 14:22:50,535 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-08-30 14:22:51,729 ***********test_002_DDT************
+2021-08-30 14:23:27,627 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019BFDE09160>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c737c2ee10b06003490c2c135591442c/element
+2021-08-30 14:23:29,664 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019BFDE09E80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c737c2ee10b06003490c2c135591442c/element
+2021-08-30 14:23:31,697 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019BFDE854C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c737c2ee10b06003490c2c135591442c/element
+2021-08-30 14:28:24,434 
+
+2021-08-30 14:28:24,434 ====== WebDriver manager ======
+2021-08-30 14:28:24,461 Current google-chrome version is 92.0.4515
+2021-08-30 14:28:24,461 Get LATEST driver version for 92.0.4515
+2021-08-30 14:28:25,390 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-08-30 14:28:26,627 ***********test_002_DDT************
+2021-08-30 14:29:16,510 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018F06A00970>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c1a5a5e01058f38a9eb5ebf30707eebd/element
+2021-08-30 14:29:18,556 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018F06AA5370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c1a5a5e01058f38a9eb5ebf30707eebd/element
+2021-08-30 14:29:20,597 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018F06AA5400>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c1a5a5e01058f38a9eb5ebf30707eebd/element
+2021-08-30 14:29:45,985 
+
+2021-08-30 14:29:45,985 ====== WebDriver manager ======
+2021-08-30 14:29:47,961 There is no [win64] operadriver for browser  in cache
+2021-08-30 14:29:50,319 Getting latest opera release info for v.92.0.4515.107
+2021-08-30 14:29:51,030 Trying to download new driver from https://github.com/operasoftware/operachromiumdriver/releases/download/v.92.0.4515.107/operadriver_win64.zip
+2021-08-30 14:31:07,120 Driver has been saved in cache [C:\Users\sukal\.wdm\drivers\operadriver\win64\v.92.0.4515.107]
+2021-08-30 14:31:11,312 ***********test_002_DDT************
+2021-08-30 14:31:48,733 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029BD06E06D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0b1cede73f9ae1033f877c3e59f75699/element
+2021-08-30 14:31:50,756 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029BD06E74F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0b1cede73f9ae1033f877c3e59f75699/element
+2021-08-30 14:31:52,783 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029BD1724130>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/0b1cede73f9ae1033f877c3e59f75699/element
+2021-08-30 14:34:34,823 
+
+2021-08-30 14:34:34,823 ====== WebDriver manager ======
+2021-08-30 14:34:35,579 Driver [C:\Users\sukal\.wdm\drivers\operadriver\win64\v.92.0.4515.107\operadriver_win64/] found in cache
+2021-08-30 14:34:37,415 ***********test_002_DDT************
+2021-08-30 14:35:26,017 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029139851550>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/151a684071396e72fc6da2827dd6e5b3/element
+2021-08-30 14:35:28,066 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029139858FD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/151a684071396e72fc6da2827dd6e5b3/element
+2021-08-30 14:35:30,090 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002913899D1F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/151a684071396e72fc6da2827dd6e5b3/element
+2021-08-30 18:24:49,149 
+
+2021-08-30 18:24:49,149 ====== WebDriver manager ======
+2021-08-30 18:24:49,164 Current google-chrome version is 92.0.4515
+2021-08-30 18:24:49,164 Get LATEST driver version for 92.0.4515
+2021-08-30 18:24:53,676 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-08-30 18:24:55,070 ***********test_002_DDT************
+2021-08-30 18:25:50,911 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C509E50970>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d1881da75cc800ba235faca13d3b8687/element
+2021-08-30 18:25:52,932 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C508F9A400>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d1881da75cc800ba235faca13d3b8687/element
+2021-08-30 18:25:54,952 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C509ECBDF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d1881da75cc800ba235faca13d3b8687/element
+2021-09-01 08:36:23,327 
+
+2021-09-01 08:36:23,327 ====== WebDriver manager ======
+2021-09-01 08:36:23,372 Current google-chrome version is 92.0.4515
+2021-09-01 08:36:23,372 Get LATEST driver version for 92.0.4515
+2021-09-01 08:36:24,377 Get LATEST driver version for 92.0.4515
+2021-09-01 08:36:24,649 Trying to download new driver from https://chromedriver.storage.googleapis.com/92.0.4515.107/chromedriver_win32.zip
+2021-09-01 08:36:36,965 Driver has been saved in cache [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107]
+2021-09-01 08:36:38,799 ***********test_001************
+2021-09-01 08:40:27,739 
+
+2021-09-01 08:40:27,739 ====== WebDriver manager ======
+2021-09-01 08:40:27,768 Current google-chrome version is 92.0.4515
+2021-09-01 08:40:27,768 Get LATEST driver version for 92.0.4515
+2021-09-01 08:40:28,973 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-01 08:40:30,126 ***********test_001************
+2021-09-01 22:29:34,643 
+
+2021-09-01 22:29:34,643 ====== WebDriver manager ======
+2021-09-01 22:29:34,679 Current google-chrome version is 92.0.4515
+2021-09-01 22:29:34,679 Get LATEST driver version for 92.0.4515
+2021-09-01 22:29:35,480 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-01 22:29:36,663 ***********test_001************
+2021-09-01 22:31:05,468 
+
+2021-09-01 22:31:05,468 ====== WebDriver manager ======
+2021-09-01 22:31:05,500 Current google-chrome version is 92.0.4515
+2021-09-01 22:31:05,500 Get LATEST driver version for 92.0.4515
+2021-09-01 22:31:06,045 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-01 22:31:07,101 ***********test_001************
+2021-09-01 22:34:38,356 
+
+2021-09-01 22:34:38,356 ====== WebDriver manager ======
+2021-09-01 22:34:38,392 Current google-chrome version is 92.0.4515
+2021-09-01 22:34:38,392 Get LATEST driver version for 92.0.4515
+2021-09-01 22:34:39,126 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-01 22:34:40,191 ***********test_001************
+2021-09-01 22:49:14,459 
+
+2021-09-01 22:49:14,459 ====== WebDriver manager ======
+2021-09-01 22:49:14,475 Current google-chrome version is 92.0.4515
+2021-09-01 22:49:14,475 Get LATEST driver version for 92.0.4515
+2021-09-01 22:49:15,073 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-01 22:49:16,139 ***********test_001************
+2021-09-01 23:02:33,896 
+
+2021-09-01 23:02:33,896 ====== WebDriver manager ======
+2021-09-01 23:02:33,914 Current google-chrome version is 92.0.4515
+2021-09-01 23:02:33,914 Get LATEST driver version for 92.0.4515
+2021-09-01 23:02:34,560 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-01 23:02:35,632 ***********test_001************
+2021-09-01 23:07:58,599 
+
+2021-09-01 23:07:58,599 ====== WebDriver manager ======
+2021-09-01 23:07:58,615 Current google-chrome version is 92.0.4515
+2021-09-01 23:07:58,615 Get LATEST driver version for 92.0.4515
+2021-09-01 23:07:59,065 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-01 23:08:00,143 ***********test_001************
+2021-09-03 21:52:27,106 
+
+2021-09-03 21:52:27,106 ====== WebDriver manager ======
+2021-09-03 21:52:27,153 Current google-chrome version is 92.0.4515
+2021-09-03 21:52:27,153 Get LATEST driver version for 92.0.4515
+2021-09-03 21:52:28,674 Get LATEST driver version for 92.0.4515
+2021-09-03 21:52:29,284 Trying to download new driver from https://chromedriver.storage.googleapis.com/92.0.4515.107/chromedriver_win32.zip
+2021-09-03 21:53:27,557 Driver has been saved in cache [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107]
+2021-09-03 21:53:30,095 ***********test_001************
+2021-09-03 21:56:46,221 
+
+2021-09-03 21:56:46,221 ====== WebDriver manager ======
+2021-09-03 21:56:46,253 Current google-chrome version is 92.0.4515
+2021-09-03 21:56:46,253 Get LATEST driver version for 92.0.4515
+2021-09-03 21:56:46,829 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-03 21:56:47,915 ***********test_001************
+2021-09-03 22:03:02,424 
+
+2021-09-03 22:03:02,424 ====== WebDriver manager ======
+2021-09-03 22:03:02,455 Current google-chrome version is 92.0.4515
+2021-09-03 22:03:02,455 Get LATEST driver version for 92.0.4515
+2021-09-03 22:03:08,582 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-03 22:03:09,745 ***********test_001************
+2021-09-03 22:07:04,319 
+
+2021-09-03 22:07:04,319 ====== WebDriver manager ======
+2021-09-03 22:07:04,354 Current google-chrome version is 92.0.4515
+2021-09-03 22:07:04,354 Get LATEST driver version for 92.0.4515
+2021-09-03 22:07:04,748 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-03 22:07:05,829 ***********test_001************
+2021-09-03 22:09:53,183 
+
+2021-09-03 22:09:53,183 ====== WebDriver manager ======
+2021-09-03 22:09:53,199 Current google-chrome version is 92.0.4515
+2021-09-03 22:09:53,199 Get LATEST driver version for 92.0.4515
+2021-09-03 22:09:54,114 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-03 22:09:55,189 ***********test_001************
+2021-09-03 22:16:26,763 
+
+2021-09-03 22:16:26,763 ====== WebDriver manager ======
+2021-09-03 22:16:26,794 Current google-chrome version is 92.0.4515
+2021-09-03 22:16:26,794 Get LATEST driver version for 92.0.4515
+2021-09-03 22:16:27,418 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-03 22:16:28,570 ***********test_001************
+2021-09-03 22:19:51,323 
+
+2021-09-03 22:19:51,323 ====== WebDriver manager ======
+2021-09-03 22:19:51,355 Current google-chrome version is 92.0.4515
+2021-09-03 22:19:51,355 Get LATEST driver version for 92.0.4515
+2021-09-03 22:19:51,839 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-03 22:19:52,903 ***********test_001************
+2021-09-03 22:23:19,456 
+
+2021-09-03 22:23:19,456 ====== WebDriver manager ======
+2021-09-03 22:23:19,488 Current google-chrome version is 92.0.4515
+2021-09-03 22:23:19,488 Get LATEST driver version for 92.0.4515
+2021-09-03 22:23:20,170 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-03 22:23:21,219 ***********test_001************
+2021-09-03 22:38:27,974 
+
+2021-09-03 22:38:27,974 ====== WebDriver manager ======
+2021-09-03 22:38:28,002 Current google-chrome version is 92.0.4515
+2021-09-03 22:38:28,002 Get LATEST driver version for 92.0.4515
+2021-09-03 22:38:28,577 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-03 22:38:29,639 ***********test_001************
+2021-09-03 22:46:27,648 
+
+2021-09-03 22:46:27,649 ====== WebDriver manager ======
+2021-09-03 22:46:27,675 Current google-chrome version is 92.0.4515
+2021-09-03 22:46:27,676 Get LATEST driver version for 92.0.4515
+2021-09-03 22:46:29,330 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-03 22:46:30,454 ***********test_001************
+2021-09-03 23:01:32,188 
+
+2021-09-03 23:01:32,189 ====== WebDriver manager ======
+2021-09-03 23:01:32,213 Current google-chrome version is 92.0.4515
+2021-09-03 23:01:32,213 Get LATEST driver version for 92.0.4515
+2021-09-03 23:01:32,742 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-03 23:01:33,850 ***********test_001************
+2021-09-03 23:04:11,734 
+
+2021-09-03 23:04:11,735 ====== WebDriver manager ======
+2021-09-03 23:04:11,759 Current google-chrome version is 92.0.4515
+2021-09-03 23:04:11,759 Get LATEST driver version for 92.0.4515
+2021-09-03 23:04:12,218 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-03 23:04:13,263 ***********test_001************
+2021-09-03 23:13:06,821 
+
+2021-09-03 23:13:06,821 ====== WebDriver manager ======
+2021-09-03 23:13:06,851 Current google-chrome version is 92.0.4515
+2021-09-03 23:13:06,851 Get LATEST driver version for 92.0.4515
+2021-09-03 23:41:19,445 
+
+2021-09-03 23:41:19,446 ====== WebDriver manager ======
+2021-09-03 23:41:19,472 Current google-chrome version is 92.0.4515
+2021-09-03 23:41:19,472 Get LATEST driver version for 92.0.4515
+2021-09-03 23:41:20,922 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-03 23:41:21,983 ***********test_001************
+2021-09-04 09:21:10,010 
+
+2021-09-04 09:21:10,026 ====== WebDriver manager ======
+2021-09-04 09:21:10,061 Current google-chrome version is 92.0.4515
+2021-09-04 09:21:10,061 Get LATEST driver version for 92.0.4515
+2021-09-04 09:21:11,539 Get LATEST driver version for 92.0.4515
+2021-09-04 09:21:11,992 Trying to download new driver from https://chromedriver.storage.googleapis.com/92.0.4515.107/chromedriver_win32.zip
+2021-09-04 09:21:19,805 Driver has been saved in cache [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107]
+2021-09-04 09:21:22,308 ***********test_001************
+2021-09-04 09:23:05,220 
+
+2021-09-04 09:23:05,236 ====== WebDriver manager ======
+2021-09-04 09:23:05,250 Current google-chrome version is 92.0.4515
+2021-09-04 09:23:05,250 Get LATEST driver version for 92.0.4515
+2021-09-04 09:23:05,804 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 09:23:06,973 ***********test_001************
+2021-09-04 09:24:25,830 
+
+2021-09-04 09:24:25,830 ====== WebDriver manager ======
+2021-09-04 09:24:25,855 Current google-chrome version is 92.0.4515
+2021-09-04 09:24:25,855 Get LATEST driver version for 92.0.4515
+2021-09-04 09:24:26,666 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 09:24:27,835 ***********test_001************
+2021-09-04 09:31:11,854 
+
+2021-09-04 09:31:11,854 ====== WebDriver manager ======
+2021-09-04 09:31:11,882 Current google-chrome version is 92.0.4515
+2021-09-04 09:31:11,882 Get LATEST driver version for 92.0.4515
+2021-09-04 09:31:12,608 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 09:31:13,821 ***********test_001************
+2021-09-04 09:55:30,272 
+
+2021-09-04 09:55:30,286 ====== WebDriver manager ======
+2021-09-04 09:55:30,309 Current google-chrome version is 92.0.4515
+2021-09-04 09:55:30,309 Get LATEST driver version for 92.0.4515
+2021-09-04 09:55:30,748 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 09:55:31,983 ***********test_001************
+2021-09-04 09:56:34,344 
+
+2021-09-04 09:56:34,344 ====== WebDriver manager ======
+2021-09-04 09:56:34,378 Current google-chrome version is 92.0.4515
+2021-09-04 09:56:34,378 Get LATEST driver version for 92.0.4515
+2021-09-04 09:56:36,021 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 09:56:37,186 ***********test_001************
+2021-09-04 10:01:42,889 
+
+2021-09-04 10:01:42,897 ====== WebDriver manager ======
+2021-09-04 10:01:42,922 Current google-chrome version is 92.0.4515
+2021-09-04 10:01:42,922 Get LATEST driver version for 92.0.4515
+2021-09-04 10:01:43,750 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 10:01:44,979 ***********test_001************
+2021-09-04 10:03:10,180 
+
+2021-09-04 10:03:10,180 ====== WebDriver manager ======
+2021-09-04 10:03:10,204 Current google-chrome version is 92.0.4515
+2021-09-04 10:03:10,204 Get LATEST driver version for 92.0.4515
+2021-09-04 10:03:10,871 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 10:03:12,023 ***********test_001************
+2021-09-04 10:04:48,677 
+
+2021-09-04 10:04:48,677 ====== WebDriver manager ======
+2021-09-04 10:04:48,704 Current google-chrome version is 92.0.4515
+2021-09-04 10:04:48,704 Get LATEST driver version for 92.0.4515
+2021-09-04 10:04:49,213 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 10:04:50,417 ***********test_001************
+2021-09-04 10:09:42,658 
+
+2021-09-04 10:09:42,658 ====== WebDriver manager ======
+2021-09-04 10:09:42,690 Current google-chrome version is 92.0.4515
+2021-09-04 10:09:42,690 Get LATEST driver version for 92.0.4515
+2021-09-04 10:09:43,390 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 10:09:44,585 ***********test_001************
+2021-09-04 10:10:55,052 
+
+2021-09-04 10:10:55,052 ====== WebDriver manager ======
+2021-09-04 10:10:55,090 Current google-chrome version is 92.0.4515
+2021-09-04 10:10:55,092 Get LATEST driver version for 92.0.4515
+2021-09-04 10:10:56,233 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 10:10:57,485 ***********test_001************
+2021-09-04 10:23:14,983 
+
+2021-09-04 10:23:14,983 ====== WebDriver manager ======
+2021-09-04 10:23:15,010 Current google-chrome version is 92.0.4515
+2021-09-04 10:23:15,010 Get LATEST driver version for 92.0.4515
+2021-09-04 10:23:15,812 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 10:23:17,029 ***********test_001************
+2021-09-04 10:27:22,597 
+
+2021-09-04 10:27:22,597 ====== WebDriver manager ======
+2021-09-04 10:27:22,628 Current google-chrome version is 92.0.4515
+2021-09-04 10:27:22,628 Get LATEST driver version for 92.0.4515
+2021-09-04 10:27:23,245 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 10:27:24,484 ***********test_001************
+2021-09-04 10:41:00,303 
+
+2021-09-04 10:41:00,303 ====== WebDriver manager ======
+2021-09-04 10:41:00,346 Current google-chrome version is 92.0.4515
+2021-09-04 10:41:00,346 Get LATEST driver version for 92.0.4515
+2021-09-04 10:41:01,109 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 10:41:02,287 ***********test_001************
+2021-09-04 10:42:05,325 
+
+2021-09-04 10:42:05,325 ====== WebDriver manager ======
+2021-09-04 10:42:05,359 Current google-chrome version is 92.0.4515
+2021-09-04 10:42:05,359 Get LATEST driver version for 92.0.4515
+2021-09-04 10:42:06,510 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 10:42:07,752 ***********test_001************
+2021-09-04 13:42:30,466 
+
+2021-09-04 13:42:30,466 ====== WebDriver manager ======
+2021-09-04 13:42:30,509 Current google-chrome version is 92.0.4515
+2021-09-04 13:42:30,509 Get LATEST driver version for 92.0.4515
+2021-09-04 13:42:31,060 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 13:42:32,229 ***********test_001************
+2021-09-04 13:43:48,748 
+
+2021-09-04 13:43:48,748 ====== WebDriver manager ======
+2021-09-04 13:43:48,763 Current google-chrome version is 92.0.4515
+2021-09-04 13:43:48,763 Get LATEST driver version for 92.0.4515
+2021-09-04 13:43:49,341 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 13:43:50,421 ***********test_001************
+2021-09-04 13:44:43,152 
+
+2021-09-04 13:44:43,152 ====== WebDriver manager ======
+2021-09-04 13:44:43,169 Current google-chrome version is 92.0.4515
+2021-09-04 13:44:43,169 Get LATEST driver version for 92.0.4515
+2021-09-04 13:44:43,732 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 13:44:44,794 ***********test_001************
+2021-09-04 14:17:41,639 
+
+2021-09-04 14:17:41,654 ====== WebDriver manager ======
+2021-09-04 14:17:41,670 Current google-chrome version is 92.0.4515
+2021-09-04 14:17:41,670 Get LATEST driver version for 92.0.4515
+2021-09-04 14:17:42,260 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 14:17:43,334 ***********test_001************
+2021-09-04 14:22:48,204 
+
+2021-09-04 14:22:48,219 ====== WebDriver manager ======
+2021-09-04 14:22:48,232 Current google-chrome version is 92.0.4515
+2021-09-04 14:22:48,232 Get LATEST driver version for 92.0.4515
+2021-09-04 14:22:49,489 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 14:22:50,700 ***********test_001************
+2021-09-04 19:52:23,528 
+
+2021-09-04 19:52:23,528 ====== WebDriver manager ======
+2021-09-04 19:52:23,552 Current google-chrome version is 92.0.4515
+2021-09-04 19:52:23,552 Get LATEST driver version for 92.0.4515
+2021-09-04 19:52:24,058 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-04 19:52:25,486 ***********test_002_DDT************
+2021-09-04 19:52:50,796 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B50A3809A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6a4d10ca48b37dbb4a98a62cf876a636/element
+2021-09-04 19:52:52,820 Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B50A3FB7F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6a4d10ca48b37dbb4a98a62cf876a636/element
+2021-09-04 19:52:54,839 Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B50A388520>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/6a4d10ca48b37dbb4a98a62cf876a636/element
+2021-09-05 14:11:30,312 
+
+2021-09-05 14:11:30,312 ====== WebDriver manager ======
+2021-09-05 14:11:30,359 Current google-chrome version is 92.0.4515
+2021-09-05 14:11:30,359 Get LATEST driver version for 92.0.4515
+2021-09-05 14:11:33,656 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-05 14:11:34,883 ***********test_001************
+2021-09-05 14:13:11,398 
+
+2021-09-05 14:13:11,398 ====== WebDriver manager ======
+2021-09-05 14:13:11,432 Current google-chrome version is 92.0.4515
+2021-09-05 14:13:11,432 Get LATEST driver version for 92.0.4515
+2021-09-05 14:13:12,202 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-05 14:13:13,409 ***********test_001************
+2021-09-05 14:24:40,330 
+
+2021-09-05 14:24:40,330 ====== WebDriver manager ======
+2021-09-05 14:24:40,353 Current google-chrome version is 92.0.4515
+2021-09-05 14:24:40,353 Get LATEST driver version for 92.0.4515
+2021-09-05 14:24:41,037 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-05 14:24:42,257 ***********test_001************
+2021-09-05 14:25:53,912 
+
+2021-09-05 14:25:53,912 ====== WebDriver manager ======
+2021-09-05 14:25:53,926 Current google-chrome version is 92.0.4515
+2021-09-05 14:25:53,926 Get LATEST driver version for 92.0.4515
+2021-09-05 14:25:54,998 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-05 14:25:56,137 ***********test_001************
+2021-09-05 14:28:03,035 
+
+2021-09-05 14:28:03,036 ====== WebDriver manager ======
+2021-09-05 14:28:03,057 Current google-chrome version is 92.0.4515
+2021-09-05 14:28:03,057 Get LATEST driver version for 92.0.4515
+2021-09-05 14:28:05,964 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-05 14:28:07,143 ***********test_001************
+2021-09-05 14:29:26,149 
+
+2021-09-05 14:29:26,149 ====== WebDriver manager ======
+2021-09-05 14:29:26,181 Current google-chrome version is 92.0.4515
+2021-09-05 14:29:26,181 Get LATEST driver version for 92.0.4515
+2021-09-05 14:29:27,629 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-05 14:29:28,783 ***********test_001************
+2021-09-06 19:20:24,050 
+
+2021-09-06 19:20:24,051 ====== WebDriver manager ======
+2021-09-06 19:20:24,081 Current google-chrome version is 92.0.4515
+2021-09-06 19:20:24,081 Get LATEST driver version for 92.0.4515
+2021-09-06 19:20:29,029 Get LATEST driver version for 92.0.4515
+2021-09-06 19:20:30,128 Trying to download new driver from https://chromedriver.storage.googleapis.com/92.0.4515.107/chromedriver_win32.zip
+2021-09-06 19:21:38,835 Driver has been saved in cache [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107]
+2021-09-06 19:21:42,335 ***********test_001************
+2021-09-06 19:26:28,674 
+
+2021-09-06 19:26:28,675 ====== WebDriver manager ======
+2021-09-06 19:26:28,701 Current google-chrome version is 92.0.4515
+2021-09-06 19:26:28,701 Get LATEST driver version for 92.0.4515
+2021-09-06 19:26:29,268 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-06 19:26:30,384 ***********test_001************
+2021-09-06 19:30:43,708 
+
+2021-09-06 19:30:43,708 ====== WebDriver manager ======
+2021-09-06 19:30:43,740 Current google-chrome version is 92.0.4515
+2021-09-06 19:30:43,740 Get LATEST driver version for 92.0.4515
+2021-09-06 19:30:44,255 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-06 19:30:45,319 ***********test_001************
+2021-09-06 19:33:35,542 
+
+2021-09-06 19:33:35,558 ====== WebDriver manager ======
+2021-09-06 19:33:35,579 Current google-chrome version is 92.0.4515
+2021-09-06 19:33:35,579 Get LATEST driver version for 92.0.4515
+2021-09-06 19:33:38,783 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-06 19:33:39,861 ***********test_001************
+2021-09-06 19:35:15,023 
+
+2021-09-06 19:35:15,023 ====== WebDriver manager ======
+2021-09-06 19:35:15,052 Current google-chrome version is 92.0.4515
+2021-09-06 19:35:15,052 Get LATEST driver version for 92.0.4515
+2021-09-06 19:35:15,681 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-06 19:35:16,752 ***********test_001************
+2021-09-06 19:37:00,057 
+
+2021-09-06 19:37:00,058 ====== WebDriver manager ======
+2021-09-06 19:37:00,085 Current google-chrome version is 92.0.4515
+2021-09-06 19:37:00,085 Get LATEST driver version for 92.0.4515
+2021-09-06 19:37:00,525 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-06 19:37:01,579 ***********test_001************
+2021-09-06 19:38:21,023 
+
+2021-09-06 19:38:21,023 ====== WebDriver manager ======
+2021-09-06 19:38:21,038 Current google-chrome version is 92.0.4515
+2021-09-06 19:38:21,054 Get LATEST driver version for 92.0.4515
+2021-09-06 19:38:21,771 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\92.0.4515.107\chromedriver.exe] found in cache
+2021-09-06 19:38:22,826 ***********test_001************
+2021-09-21 15:15:15,587 
+
+2021-09-21 15:15:15,587 ====== WebDriver manager ======
+2021-09-21 15:15:15,618 Current google-chrome version is 93.0.4577
+2021-09-21 15:15:15,618 Get LATEST driver version for 93.0.4577
+2021-09-21 15:15:16,853 There is no [win32] chromedriver for browser 93.0.4577 in cache
+2021-09-21 15:15:16,853 Get LATEST driver version for 93.0.4577
+2021-09-21 15:15:17,337 Trying to download new driver from https://chromedriver.storage.googleapis.com/93.0.4577.63/chromedriver_win32.zip
+2021-09-21 15:15:39,853 Driver has been saved in cache [C:\Users\sukal\.wdm\drivers\chromedriver\win32\93.0.4577.63]
+2021-09-21 15:15:46,504 ***********test_001************
+2021-09-21 15:18:42,397 
+
+2021-09-21 15:18:42,397 ====== WebDriver manager ======
+2021-09-21 15:18:42,428 Current google-chrome version is 93.0.4577
+2021-09-21 15:18:42,428 Get LATEST driver version for 93.0.4577
+2021-09-21 15:18:42,964 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\93.0.4577.63\chromedriver.exe] found in cache
+2021-09-21 15:18:44,261 ***********test_001************
+2021-09-21 15:22:01,308 
+
+2021-09-21 15:22:01,308 ====== WebDriver manager ======
+2021-09-21 15:22:01,338 Current google-chrome version is 93.0.4577
+2021-09-21 15:22:01,338 Get LATEST driver version for 93.0.4577
+2021-09-21 15:22:02,023 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\93.0.4577.63\chromedriver.exe] found in cache
+2021-09-21 15:22:03,305 ***********test_001************
+2021-09-21 15:24:39,046 
+
+2021-09-21 15:24:39,046 ====== WebDriver manager ======
+2021-09-21 15:24:39,079 Current google-chrome version is 93.0.4577
+2021-09-21 15:24:39,079 Get LATEST driver version for 93.0.4577
+2021-09-21 15:24:39,537 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\93.0.4577.63\chromedriver.exe] found in cache
+2021-09-21 15:24:40,792 ***********test_001************
+2021-09-21 15:42:23,758 
+
+2021-09-21 15:42:23,758 ====== WebDriver manager ======
+2021-09-21 15:42:23,789 Current google-chrome version is 93.0.4577
+2021-09-21 15:42:23,805 Get LATEST driver version for 93.0.4577
+2021-09-21 15:42:24,688 Driver [C:\Users\sukal\.wdm\drivers\chromedriver\win32\93.0.4577.63\chromedriver.exe] found in cache
+2021-09-21 15:42:25,953 ***********test_001************
+2021-10-21 23:19:22,340 
+
+2021-10-21 23:19:22,340 ====== WebDriver manager ======
+2021-10-21 23:19:22,420 Current google-chrome version is 94.0.4606
+2021-10-21 23:19:22,420 Get LATEST driver version for 94.0.4606
+2021-10-21 23:19:23,505 There is no [win32] chromedriver for browser 94.0.4606 in cache
+2021-10-21 23:19:23,505 Get LATEST driver version for 94.0.4606
+2021-10-21 23:19:23,949 Trying to download new driver from https://chromedriver.storage.googleapis.com/94.0.4606.61/chromedriver_win32.zip
+2021-10-21 23:19:48,901 Driver has been saved in cache [C:\Users\sukal\.wdm\drivers\chromedriver\win32\94.0.4606.61]
+2021-10-21 23:19:54,930 ***********test_001************
+2021-11-20 11:10:30,892 
+
+2021-11-20 11:10:30,892 ====== WebDriver manager ======
+2021-11-20 11:10:30,990 Current google-chrome version is 96.0.4664
+2021-11-20 11:10:30,990 Get LATEST driver version for 96.0.4664
+2021-11-20 11:10:31,958 There is no [win32] chromedriver for browser 96.0.4664 in cache
+2021-11-20 11:10:31,959 Get LATEST driver version for 96.0.4664
+2021-11-20 11:10:32,444 Trying to download new driver from https://chromedriver.storage.googleapis.com/96.0.4664.45/chromedriver_win32.zip
+2021-11-20 11:11:06,378 Driver has been saved in cache [C:\Users\sukal\.wdm\drivers\chromedriver\win32\96.0.4664.45]
+2021-11-20 11:11:12,198 ***********test_001************
