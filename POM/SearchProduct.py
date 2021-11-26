@@ -6,10 +6,10 @@ class search_Product:
     Product_name_txt_xpath = "//input[@id='SearchProductName']"
     Category_dropdown_xpath = "//select[@id='SearchCategoryId']"
     Manufacturer_dropdown_xpath = "//select[@id='SearchManufacturerId']"
-    Vendor_dropdown_xpath = "//select[@id='SearchVendorId']/option[1]"
-    Warehouse_dropdown_xpath = "//select[@id='SearchWarehouseId']/option[1]"
-    Product_Type_dropdown_xpath = "//select[@id='SearchProductTypeId']/option[1]"
-    Published_dropdown_xpath = "//select[@id='SearchPublishedId']/option[1]"
+    Vendor_dropdown_xpath = "//select[@id='SearchVendorId']"
+    Warehouse_dropdown_xpath = "//select[@id='SearchWarehouseId']"
+    Product_Type_dropdown_xpath = "//select[@id='SearchProductTypeId']"
+    Published_dropdown_xpath = "//select[@id='SearchPublishedId']"
     Search_button = "//button[@id='search-products']"
 
     def __init__(self,driver):
@@ -36,16 +36,24 @@ class search_Product:
         sel = Select(list)
         sel.select_by_index(Manufact)
 
-    def Vendor(self):
-        self.driver.find_element_by_xpath(self.Vendor_dropdown_xpath).click()
+    def Vendor(self,Vendor):
+        list = self.driver.find_element_by_xpath(self.Vendor_dropdown_xpath)
+        sel = Select(list)
+        sel.select_by_index(Vendor)
 
-    def Warehouse(self):
-        self.driver.find_element_by_xpath(self.Warehouse_dropdown_xpath).click()
+    def Warehouse(self,Warehouse):
+        list = self.driver.find_element_by_xpath(self.Warehouse_dropdown_xpath)
+        sel = Select(list)
+        sel.select_by_index(Warehouse)
 
-    def ProductType(self):
-        self.driver.find_element_by_xpath(self.Product_Type_dropdown_xpath).click()
-    def Published(self):
-        self.driver.find_element_by_xpath(self.Published_dropdown_xpath).click()
+    def ProductType(self,Pro_Type):
+        list = self.driver.find_element_by_xpath(self.Product_Type_dropdown_xpath)
+        sel = Select(list)
+        sel.select_by_index(Pro_Type)
+    def Published(self,Published):
+        list = self.driver.find_element_by_xpath(self.Published_dropdown_xpath)
+        sel = Select(list)
+        sel.select_by_index(Published)
 
     def Search(self):
         self.driver.find_element_by_xpath(self.Search_button).click()
